@@ -30,6 +30,8 @@ Have four terminals open all connected to the docker
   - source install/setup.bash
   - ros2 run midterm_initials draw_initials
 
+
+
 <img width="581" height="474" alt="Screenshot 2025-10-12 at 3 58 36 PM" src="https://github.com/user-attachments/assets/042c55d2-1e8c-45a9-a07a-aea36fd825ba" />
 
 
